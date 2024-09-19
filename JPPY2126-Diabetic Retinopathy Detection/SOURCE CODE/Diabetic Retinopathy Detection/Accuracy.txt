@@ -1,0 +1,7 @@
+Diabetic Retinopathy Detection by means of Deep Learning
+
+Algorithm / Model used: InceptionV3  Architecture
+
+Accuracy score:  0.952
+
+
